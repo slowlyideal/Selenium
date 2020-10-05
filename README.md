@@ -3,7 +3,7 @@ python selenium实现浏览器常规操作
 1、下载合适的drivr.exe对应你的浏览器,注意版本  
 2、将代码和下载的driver.exe放在同一个文件夹中  
 3、开始你的网页自动化之旅吧  
-[驱动下载](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/) 
+[驱动下载](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/)  
 参考  
 https://www.selenium.dev/  
 
