@@ -9,9 +9,9 @@ https://www.selenium.dev/documentation/en/webdriver/driver_requirements/
 https://www.selenium.dev/  
 
 Python selenium implements browser operations  
-1. Download the appropriate drivr.exe corresponding to your browser, pay attention to the version  
-2. Put the code and the downloaded driver.exe in the same folder  
-3. Start your web automation journey  
+1.Download the appropriate drivr.exe corresponding to your browser, pay attention to the version  
+2.Put the code and the downloaded driver.exe in the same folder  
+3.Start your web automation journey  
 Driver Download  
 https://www.selenium.dev/documentation/en/webdriver/driver_requirements/  
 reference  
