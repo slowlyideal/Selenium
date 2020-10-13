@@ -1,3 +1,5 @@
+运行效果见：https://www.bilibili.com/video/BV1ca411A7E2  
+
 将浏览器的网址写入到txt并打开  
 1.写入txt：  
 pyautogui实现网址选取、复制、txt命名  
