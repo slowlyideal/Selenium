@@ -6,6 +6,7 @@ python selenium实现浏览器常规操作
 [驱动下载](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/)  
 参考  
 https://www.selenium.dev/  
+book:《Selenium自动化测试-基于python语言》 人民邮电出版社 author Unmesh Gundecha
 
 Python selenium implements browser operations  
 1.Download the appropriate drivr.exe corresponding to your browser, pay attention to the version  
