@@ -16,4 +16,4 @@ Python selenium implements browser operations
 reference  
 https://www.selenium.dev/  
 
-readme.md:https://www.cnblogs.com/longronglang/p/8453047.html
+注意谷歌浏览器版本和对应的driver之间的关系
