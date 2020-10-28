@@ -9,6 +9,6 @@ selenium 实现
 3.打包exe  
 pyinstaller    
 #https://pypi.org/project/pyperclip/  pyperclip实现读取剪切板  
-#https://pyautogui.readthedocs.io/en/latest/msgbox.html pyautogui实现对鼠标和键盘d操作  
+#https://pyautogui.readthedocs.io/en/latest/msgbox.html pyautogui实现对鼠标和键盘操作、消息弹出框和获取输入信息       
 #https://www.selenium.dev/documentation/en/webdriver/browser_manipulation/ selenium实现对浏览器的操作  
 #https://pyinstaller.readthedocs.io/en/stable/usage.html  打包成exe Pyinstaller -F -w main.py 避免cmd和依赖  
